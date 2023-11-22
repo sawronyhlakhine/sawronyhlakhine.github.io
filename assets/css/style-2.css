@@ -360,8 +360,9 @@ body {
   @media (max-width: 992px) {
     #hero {
       text-align: center;
-      background: url("../img/hero-bg-mobile.jpg") top center no-repeat;
-      background-size: cover;
+      background-position: right -250px top;
+      /* background: url("../img/hero-bg-mobile.jpg") top center no-repeat; */
+      /* background-size: cover; */
     }
   
     #hero h1 {
