@@ -354,7 +354,7 @@ body {
   }
   
   #hero .social-links a:hover {
-    color: #EEF0F4;
+    color: #d5383f;
   }
   
   @media (max-width: 992px) {
@@ -381,7 +381,7 @@ body {
   # Sections General
   --------------------------------------------------------------*/
   section {
-    padding: 60px 0;
+    padding: 40px 0;
     overflow: hidden;
   }
   
@@ -453,7 +453,7 @@ body {
   .about .content ul i {
     font-size: 16px;
     margin-right: 5px;
-    color: #EEF0F4;
+    color: #728394;
     line-height: 0;
   }
   
@@ -535,7 +535,7 @@ body {
       /* background: #ddd; */
     /* background: #FFFFFF; */
     border-radius: 10px;
-    box-shadow: 3px 3px 3px #D2D2D2, -3px -3px 3px #FFFFFF;
+    box-shadow: inset 2px 2px 2px #D2D2D2, inset -2px -2px 2px #FFFFFF;
 }
 
 .skills .progress-bar {
@@ -570,7 +570,7 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
-    color: #EEF0F4;
+    color: #45505b;
     margin-bottom: 10px;
   }
   
